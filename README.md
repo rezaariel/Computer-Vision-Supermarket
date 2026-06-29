@@ -2,7 +2,7 @@
 
 Project ini adalah project sederhana untuk mengenali produk supermarket dari gambar menggunakan machine learning.
 
-# !ATTENTION!
+# ATTENTION
 
 Model yang dibuat sudah tidak over fitting maupun under fitting, tetapi accuracynya masih sangat rendah [berkisar 0.2----] dan sangat rentan salah dalam menebak produk. Saya ingin membuat model ini menjadi model yang bagus tetapi keterbatasan data assets menjadi lebih sulit
 

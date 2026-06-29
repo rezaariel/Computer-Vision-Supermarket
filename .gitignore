@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# Large model files and assets
+*.hdf5
+*.pkl
+*.joblib
+
+# Dataset folders (optional if you don't want to commit data)
+dataset/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
